@@ -16,6 +16,7 @@ Assignment 01
 # Tralexia-Kubernetes-Assignments-
 
 ![testing-screenshot](test1)
+
 ![Sc 2](Sc 2.png)
 
 ![Sc 3](Sc 3.png)
