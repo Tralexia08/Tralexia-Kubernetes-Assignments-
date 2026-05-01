@@ -24,6 +24,8 @@ Assignment 01
 ![Sc 4](sc4.png)
 
 
+## Part 4. 
 
+One thing that surprised me about Docker is how isolated containers are from each other and from my computer. Even though everything is running on the same machine, each container acts like its own separate environment with its own files and settings. I didn’t realize that changes inside a container don’t affect anything outside of it unless you specifically set that up. That made me understand why Docker is so useful for keeping environments consistent
 
 
