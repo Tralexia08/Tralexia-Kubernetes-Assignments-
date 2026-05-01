@@ -15,5 +15,4 @@ Assignment 01
 
 # Tralexia-Kubernetes-Assignments-
 
-
-[testing-screenshot]("Screenshot 2026-04-30 at 9.18.41 PM.png")
+![testing-screenshot](test1)
